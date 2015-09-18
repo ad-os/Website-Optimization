@@ -1,6 +1,7 @@
 <h1>How to view this website</h1>
 <p>1. Download the zip folder for this project</p>
-<p>2. Click on index.html in the main folder to view page.</p>
+</p>2. Navigate to either production or development directory.</p>
+<p>2. Click on index.html in that folder to view page in your browser.</p>
 <h1>Optimizations</h1>
 <h3>Optimizations in index.html</h3>
 <p>1.Inline css</p>
